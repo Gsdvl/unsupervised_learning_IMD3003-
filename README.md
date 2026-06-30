@@ -4,6 +4,10 @@ Projeto da disciplina **IMD3003 - Aprendizado de Maquina Não Supervisionado**.
 
 O objetivo do notebook e analisar transacoes de cartao de credito e aplicar tecnicas de aprendizado nao supervisionado, incluindo limpeza dos dados, analise exploratoria, escalonamento e reducao de dimensionalidade com PCA.
 
+## Link Para Apresenação
+
+[Apresentação de slides](https://canva.link/omj81v6ea0b6uid)
+
 ## Base de Dados
 
 A base utilizada esta disponivel no Hugging Face:
